@@ -8,6 +8,7 @@ __pycache__/
 # Environment
 .env
 *.env
+venv/
 
 # Database
 crossword.db
@@ -28,3 +29,8 @@ Thumbs.db
 *.bak
 *.swp
 ~*
+
+# PyInstaller artifacts
+build/
+dist/
+*.spec
