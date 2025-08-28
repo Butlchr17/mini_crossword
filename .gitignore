@@ -4,11 +4,13 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.egg-info/
 
 # Environment
 .env
 *.env
 venv/
+.venv/
 
 # Database
 crossword.db
@@ -34,3 +36,10 @@ Thumbs.db
 build/
 dist/
 *.spec
+
+# Testing caches
+.pytest_cache/
+
+# Type checker caches (optional, if using pyright/mypy)
+pyrightcache/
+.mypy_cache/
