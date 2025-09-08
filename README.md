@@ -1,3 +1,6 @@
+
+<img width="1033" height="641" alt="image" src="https://github.com/user-attachments/assets/d4e93c54-b4a3-456d-92e5-3732b3af25c5" />
+
 # Mini Crossword Puzzle Generator
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
